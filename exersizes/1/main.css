@@ -7,7 +7,7 @@ html{
 
 body {
 	background-color : #00c957;
-	width : 60%;
+	width : 850px;
 	margin : 0 auto;
 	border : 5px solid black
 }
@@ -20,18 +20,17 @@ img {
 }
 
 div {
+	text-align : left;
+	width : 60%;
 	display : block;
-	margin : 0 auto;
+	margin : 100px auto 50px auto;
 }
 
 
-
-h1 {
-	margin : 10px auto auto 30px;
-}
-
-p {
-	margin : 10px auto auto 30px;
+a {
+	font-family : "serif";
+	font-size : 12px;
+	text-decoration : none;
 }
 
 a:link { 
@@ -46,3 +45,8 @@ a:active {
 	color : black;
 }
 
+
+p {
+	font-style : italic;
+	line-height : 1.5;
+}
