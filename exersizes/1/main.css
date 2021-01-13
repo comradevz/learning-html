@@ -28,8 +28,8 @@ div {
 
 
 a {
-	font-family : "serif";
-	font-size : 12px;
+	font-family : serif;
+	font-size : 14px;
 	text-decoration : none;
 }
 
@@ -47,6 +47,6 @@ a:active {
 
 
 p {
-	font-style : italic;
+	font-family: 'Courgette', cursive;
 	line-height : 1.5;
 }
